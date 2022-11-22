@@ -1,2 +1,0 @@
-Cook,High
-Study,High
